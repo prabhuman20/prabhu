@@ -1,0 +1,6 @@
+{
+  "name": "Banana Blaster: Tropical Watercolor Splat",
+  "description": "A first-person arcade shooter where you wield a tactical banana to splatter mid-air tropical fruits into vibrant watercolor explosions with streaks, combos, and tropical jungle audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
